@@ -5,22 +5,22 @@ If we get two True, it's a succes, else it's a failure.
 If the decorators Solving gives a False, then we restart the exercise (Or something else ? Strategy ?).
 
 ```
-			Player
-			   |
-			   |
-	Decorator Initializations<-----
-			   |                  |
-			   |                  |
-			 Start                |
-			   |                  |
-			   |              (False, ?)
-			 Answer               |
-			   |                  |
+            Player
+               |
+               |
+    Decorator Initializations<-----
                |                  |
-	|--->Decorators Solving--------
- ForEach	|  |
-	--------|  |
-	           |
+               |                  |
+             Start                |
+               |                  |
+               |              (False, ?)
+             Answer               |
+               |                  |
+               |                  |
+    |--->Decorators Solving--------
+ ForEach    |  |
+    --------|  |
+               |
               / \
              /   \
             /     \
