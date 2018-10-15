@@ -9,3 +9,5 @@ This concept regroups the following elements :
 - workflow strategies 
 - resources connectors
 
+First draft for the form:
+https://docs.google.com/forms/d/e/1FAIpQLSc72FaTRsYDpMLVITnlp2dLuFP1DbZMQO1YnQPW3Fyo3VEHBw/viewform
