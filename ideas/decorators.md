@@ -1,0 +1,5 @@
+# Decorators
+
+- Limited tries
+- Limited time
+- Explanations about the exercise
